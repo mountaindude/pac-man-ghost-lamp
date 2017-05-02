@@ -10,8 +10,9 @@ Copy the src/secrets_template.h file to a file named src/secrets.h, then edit th
 * the IP address of the MQTT broker to be used  
 
 More extensive blog post over at [Ptarmigan Labs](https://ptarmiganlabs.com/blog/2017/05/01/let-there-be-blinky-light/).
-
-
+  
+  
+**Clik the image below to show a video of the lamp in action!**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=T_IxQYdoqJA" target="_blank"><img src="http://img.youtube.com/vi/T_IxQYdoqJA/0.jpg" 
 alt="Qlik Sense activity monitor" width="480" height="360" border="10" /></a>

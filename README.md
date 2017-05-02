@@ -14,5 +14,5 @@ More extensive blog post over at [Ptarmigan Labs](https://ptarmiganlabs.com/blog
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=T_IxQYdoqJA" target="_blank"><img src="http://img.youtube.com/vi/T_IxQYdoqJA/0.jpg" 
-alt="Qlik Sense activity monitor" width="240" height="180" border="10" /></a>
+alt="Qlik Sense activity monitor" width="480" height="360" border="10" /></a>
 
